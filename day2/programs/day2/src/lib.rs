@@ -7,6 +7,7 @@ pub mod day2 {
     use super::*;
 
     pub fn initialize(_ctx: Context<Initialize>) -> Result<()> {
+        msg!("day2");
         Ok(())
     }
 }
