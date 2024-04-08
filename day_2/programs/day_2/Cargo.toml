@@ -8,6 +8,7 @@ edition = "2021"
 crate-type = ["cdylib", "lib"]
 name = "day_2"
 
+
 [features]
 no-entrypoint = []
 no-idl = []

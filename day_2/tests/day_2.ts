@@ -11,7 +11,7 @@ describe("day_2", () => {
 
   it("Is initialized!", async () => {
     // Add your test here.
-    const tx = await program.methods.initialize(new anchor.BN(66), new anchor.BN(77), "hello").rpc();
+    const tx = await program.methods.initialize(new anchor.BN(10), new anchor.BN(5), "hello").rpc();
     console.log("Your transaction signature", tx);
   });
 
