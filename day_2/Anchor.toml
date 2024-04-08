@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-day2 = "B5CzA4FsgGJC851U6FvrMipayKZ3ogdxsn4apjBAqX8i"
+day_2 = "2dpricY6iQ7B5B65SDp5erm8psr1gqeo6Qz96ZDDKt2V"
 
 [registry]
 url = "https://api.apr.dev"
